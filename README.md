@@ -1,2 +1,8 @@
-# Simple_Calculator
-A Python calculator supporting addition, subtraction, multiplication and division with input validation and error handling
+## Simple Calculator
+Built with Python.
+Features:
+- Addition, subtraction, multiplication, division
+- Handles decimal numbers
+- Division by zero protection
+- Invalid input handling with try/except
+- Built in 9th grade as third Python project
